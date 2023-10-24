@@ -1,0 +1,32 @@
+* {
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: yellow;
+}
+/* header section */
+
+
+
+.video-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.video {
+    width: 25%;
+}
+
+.container {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.narration {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
